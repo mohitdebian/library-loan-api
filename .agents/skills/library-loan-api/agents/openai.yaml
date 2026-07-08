@@ -1,0 +1,6 @@
+interface:
+  display_name: "Library Loan Api"
+  short_description: "Repo-specific patterns and workflows for library-loan-api"
+  default_prompt: "Use the library-loan-api repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
